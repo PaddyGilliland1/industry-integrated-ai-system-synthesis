@@ -76,7 +76,7 @@ that. They are here to make the work easier to read and to check.
 | `approvals/` | The approval queue, the approver's decisions and edits, the adequacy test records, Reader B's ratings and the template comparison ratings |
 | `outbox/` | The notifications drafted after approval, which are never sent |
 | `diagram/` | The Mermaid sources of the diagrams in `figures/` |
-| `docs/` | My build notes, and the instructions and rating form Reader B used |
+| `docs/` | The blank instruction sheet and rating form given to Reader B; the completed ratings are in `approvals/` |
 
 ## Dataset
 
